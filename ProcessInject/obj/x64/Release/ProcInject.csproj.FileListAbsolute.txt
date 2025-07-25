@@ -1,0 +1,15 @@
+C:\Tools\Shared\scripts\Win32APIs\ProcInject\obj\x64\Release\ProcInject.csproj.AssemblyReference.cache
+C:\Tools\Shared\scripts\Win32APIs\ProcInject\obj\x64\Release\ProcInject.csproj.CoreCompileInputs.cache
+C:\Tools\Shared\scripts\Win32APIs\ProcInject\bin\x64\Release\ProcInject.exe.config
+C:\Tools\Shared\scripts\Win32APIs\ProcInject\bin\x64\Release\ProcInject.exe
+C:\Tools\Shared\scripts\Win32APIs\ProcInject\bin\x64\Release\ProcInject.pdb
+C:\Tools\Shared\scripts\Win32APIs\ProcInject\obj\x64\Release\ProcInject.exe
+C:\Tools\Shared\scripts\Win32APIs\ProcInject\obj\x64\Release\ProcInject.pdb
+D:\Shared\scripts\Win32APIs\ProcInject\bin\x64\Release\ProcInject.exe.config
+D:\Shared\scripts\Win32APIs\ProcInject\bin\x64\Release\ProcInject.exe
+D:\Shared\scripts\Win32APIs\ProcInject\bin\x64\Release\ProcInject.pdb
+D:\Shared\scripts\Win32APIs\ProcInject\obj\x64\Release\ProcInject.csproj.AssemblyReference.cache
+D:\Shared\scripts\Win32APIs\ProcInject\obj\x64\Release\ProcInject.exe.config
+D:\Shared\scripts\Win32APIs\ProcInject\obj\x64\Release\ProcInject.csproj.CoreCompileInputs.cache
+D:\Shared\scripts\Win32APIs\ProcInject\obj\x64\Release\ProcInject.exe
+D:\Shared\scripts\Win32APIs\ProcInject\obj\x64\Release\ProcInject.pdb

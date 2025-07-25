@@ -1,0 +1,9 @@
+D:\Shared\scripts\Win32APIs\CLMFullBypass\bin\Release\CLMFullBypass.exe.config
+D:\Shared\scripts\Win32APIs\CLMFullBypass\bin\Release\CLMFullBypass.exe
+D:\Shared\scripts\Win32APIs\CLMFullBypass\bin\Release\CLMFullBypass.pdb
+D:\Shared\scripts\Win32APIs\CLMFullBypass\bin\Release\System.Management.Automation.dll
+D:\Shared\scripts\Win32APIs\CLMFullBypass\obj\Release\CLMFullBypass.csproj.AssemblyReference.cache
+D:\Shared\scripts\Win32APIs\CLMFullBypass\obj\Release\CLMFullBypass.csproj.CoreCompileInputs.cache
+D:\Shared\scripts\Win32APIs\CLMFullBypass\obj\Release\CLMFullB.FDA0DAD5.Up2Date
+D:\Shared\scripts\Win32APIs\CLMFullBypass\obj\Release\CLMFullBypass.exe
+D:\Shared\scripts\Win32APIs\CLMFullBypass\obj\Release\CLMFullBypass.pdb

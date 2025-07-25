@@ -1,0 +1,8 @@
+D:\Shared\scripts\Payloads\ProcessInject\obj\x64\Release\ProcessInject.csproj.AssemblyReference.cache
+D:\Shared\scripts\Payloads\ProcessInject\obj\x64\Release\ProcessInject.csproj.CoreCompileInputs.cache
+D:\Shared\scripts\Payloads\ProcessInject\bin\x64\Release\ProcessInject.exe.config
+D:\Shared\scripts\Payloads\ProcessInject\bin\x64\Release\ProcessInject.exe
+D:\Shared\scripts\Payloads\ProcessInject\bin\x64\Release\ProcessInject.pdb
+D:\Shared\scripts\Payloads\ProcessInject\obj\x64\Release\ProcessInject.exe
+D:\Shared\scripts\Payloads\ProcessInject\obj\x64\Release\ProcessInject.pdb
+D:\Shared\scripts\Payloads\ProcessInject\obj\x64\Release\ProcessInject.exe.config

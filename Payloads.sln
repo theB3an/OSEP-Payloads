@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessHollow", "ProcessHollow\ProcessHollow.csproj", "{768496C2-9D88-4FCE-A227-6F5F4A5F4E5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullBypass", "FullBypass\FullBypass.csproj", "{0B32D7A8-4565-41CD-867D-96EA299A9072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullBypassInstaller", "FullBypassInstaller\FullBypassInstaller.csproj", "{9C1E2890-A941-413A-AFC0-082654CDF278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullBypassLoader", "FullBypassLoader\FullBypassLoader.csproj", "{D40C4CF1-CFDA-418D-BEF6-8FA4626A5831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessInject", "ProcessInject\ProcessInject.csproj", "{E1653BB9-ADE1-49CA-9B93-574C72C1B6A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarEncoder", "CaesarEncoder\CaesarEncoder.csproj", "{6BBAC12C-3E74-4D68-8DE0-E1D5CA17DE0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{768496C2-9D88-4FCE-A227-6F5F4A5F4E5A}.Debug|Any CPU.ActiveCfg = Release|x64
+		{768496C2-9D88-4FCE-A227-6F5F4A5F4E5A}.Debug|Any CPU.Build.0 = Release|x64
+		{768496C2-9D88-4FCE-A227-6F5F4A5F4E5A}.Release|Any CPU.ActiveCfg = Release|x86
+		{768496C2-9D88-4FCE-A227-6F5F4A5F4E5A}.Release|Any CPU.Build.0 = Release|x86
+		{0B32D7A8-4565-41CD-867D-96EA299A9072}.Debug|Any CPU.ActiveCfg = Release|x64
+		{0B32D7A8-4565-41CD-867D-96EA299A9072}.Debug|Any CPU.Build.0 = Release|x64
+		{0B32D7A8-4565-41CD-867D-96EA299A9072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B32D7A8-4565-41CD-867D-96EA299A9072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C1E2890-A941-413A-AFC0-082654CDF278}.Debug|Any CPU.ActiveCfg = Release|x64
+		{9C1E2890-A941-413A-AFC0-082654CDF278}.Debug|Any CPU.Build.0 = Release|x64
+		{9C1E2890-A941-413A-AFC0-082654CDF278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1E2890-A941-413A-AFC0-082654CDF278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40C4CF1-CFDA-418D-BEF6-8FA4626A5831}.Debug|Any CPU.ActiveCfg = Release|x64
+		{D40C4CF1-CFDA-418D-BEF6-8FA4626A5831}.Debug|Any CPU.Build.0 = Release|x64
+		{D40C4CF1-CFDA-418D-BEF6-8FA4626A5831}.Release|Any CPU.ActiveCfg = Release|x86
+		{D40C4CF1-CFDA-418D-BEF6-8FA4626A5831}.Release|Any CPU.Build.0 = Release|x86
+		{E1653BB9-ADE1-49CA-9B93-574C72C1B6A7}.Debug|Any CPU.ActiveCfg = Release|x64
+		{E1653BB9-ADE1-49CA-9B93-574C72C1B6A7}.Debug|Any CPU.Build.0 = Release|x64
+		{E1653BB9-ADE1-49CA-9B93-574C72C1B6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1653BB9-ADE1-49CA-9B93-574C72C1B6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BBAC12C-3E74-4D68-8DE0-E1D5CA17DE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBAC12C-3E74-4D68-8DE0-E1D5CA17DE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBAC12C-3E74-4D68-8DE0-E1D5CA17DE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBAC12C-3E74-4D68-8DE0-E1D5CA17DE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D45D94E2-527E-4E56-826D-18090157CF65}
+	EndGlobalSection
+EndGlobal

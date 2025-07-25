@@ -1,0 +1,10 @@
+D:\Shared\scripts\Win32APIs\CLMFullBypass\bin\Release\System.Management.Automation.dll
+D:\Shared\scripts\Win32APIs\CLMFullBypass\obj\Release\FullBypassInstaller.csproj.AssemblyReference.cache
+D:\Shared\scripts\Win32APIs\CLMFullBypass\obj\Release\FullBypassInstaller.csproj.CoreCompileInputs.cache
+D:\Shared\scripts\Win32APIs\CLMFullBypass\obj\Release\FullBypa.2422AB4B.Up2Date
+D:\Shared\scripts\Win32APIs\CLMFullBypass\bin\Release\FullBypassInstaller.exe.config
+D:\Shared\scripts\Win32APIs\CLMFullBypass\bin\Release\FullBypassInstaller.exe
+D:\Shared\scripts\Win32APIs\CLMFullBypass\bin\Release\FullBypassInstaller.pdb
+D:\Shared\scripts\Win32APIs\CLMFullBypass\obj\Release\FullBypassInstaller.exe
+D:\Shared\scripts\Win32APIs\CLMFullBypass\obj\Release\FullBypassInstaller.pdb
+D:\Shared\scripts\Win32APIs\CLMFullBypass\obj\Release\FullBypassInstaller.exe.config

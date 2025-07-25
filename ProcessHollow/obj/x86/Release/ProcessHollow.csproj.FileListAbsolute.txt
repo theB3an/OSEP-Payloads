@@ -1,0 +1,7 @@
+D:\Shared\scripts\Payloads\ProcessHollow\bin\x86\Release\ProcessHollow.exe.config
+D:\Shared\scripts\Payloads\ProcessHollow\bin\x86\Release\ProcessHollow.exe
+D:\Shared\scripts\Payloads\ProcessHollow\bin\x86\Release\ProcessHollow.pdb
+D:\Shared\scripts\Payloads\ProcessHollow\obj\x86\Release\ProcessHollow.csproj.AssemblyReference.cache
+D:\Shared\scripts\Payloads\ProcessHollow\obj\x86\Release\ProcessHollow.csproj.CoreCompileInputs.cache
+D:\Shared\scripts\Payloads\ProcessHollow\obj\x86\Release\ProcessHollow.exe
+D:\Shared\scripts\Payloads\ProcessHollow\obj\x86\Release\ProcessHollow.pdb

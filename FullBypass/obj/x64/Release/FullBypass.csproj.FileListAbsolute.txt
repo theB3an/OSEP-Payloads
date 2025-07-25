@@ -1,0 +1,10 @@
+D:\Shared\scripts\Win32APIs\FullBypass\bin\x64\Release\FullBypass.exe.config
+D:\Shared\scripts\Win32APIs\FullBypass\bin\x64\Release\FullBypass.exe
+D:\Shared\scripts\Win32APIs\FullBypass\bin\x64\Release\FullBypass.pdb
+D:\Shared\scripts\Win32APIs\FullBypass\bin\x64\Release\System.Management.Automation.dll
+D:\Shared\scripts\Win32APIs\FullBypass\obj\x64\Release\FullBypass.csproj.AssemblyReference.cache
+D:\Shared\scripts\Win32APIs\FullBypass\obj\x64\Release\FullBypass.csproj.CoreCompileInputs.cache
+D:\Shared\scripts\Win32APIs\FullBypass\obj\x64\Release\FullBypass.csproj.Up2Date
+D:\Shared\scripts\Win32APIs\FullBypass\obj\x64\Release\FullBypass.exe
+D:\Shared\scripts\Win32APIs\FullBypass\obj\x64\Release\FullBypass.pdb
+D:\Shared\scripts\Win32APIs\FullBypass\obj\x64\Release\FullBypass.exe.config
